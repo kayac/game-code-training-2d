@@ -1,0 +1,10 @@
+Library/
+Logs/
+Temp/
+obj/
+UserSettings/
+Recordings/
+.vscode/
+*.csproj
+*.sln
+.DS_Store
